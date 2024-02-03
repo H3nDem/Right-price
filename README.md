@@ -1,1 +1,8 @@
 # Right-price
+
+## Description
+Long times ago, i made the game of the right place + a calculus game using the terminal to play (so no GUI) to learn more about Java, the concept of interface and the random library.
+
+
+## Author
+Realized by Henrique D.
